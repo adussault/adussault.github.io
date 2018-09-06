@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: maintenance
 title: About
 permalink: /about/
 ---
