@@ -9,7 +9,7 @@
 title: Dussault.io
 email: andrew@dussault.io
 description: > # this means to ignore newlines until "baseurl:"
-  First description. Site in progress
+  Site in progress
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dussault.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
